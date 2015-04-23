@@ -1,7 +1,7 @@
 # settings
 
 # pointers
-* 
+* [BEM](https://en.bem.info/method/)
 
 # Mac
 * www.lvh.me
