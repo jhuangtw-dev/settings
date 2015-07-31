@@ -1,12 +1,15 @@
-# settings
+### settings
 
-# pointers
+### pointers
 * [BEM](https://en.bem.info/method/)
 
-# Mac
+### Coding
+* http://vimawesome.com/
+
+### Mac
 * www.lvh.me
   * [pow](http://pow.cx/manual.html#section_1)
   * [powder](https://github.com/Rodreegez/powder)
 
-# Rails Niceties
+### Rails Niceties
 * [Zeus](https://github.com/burke/zeus)
