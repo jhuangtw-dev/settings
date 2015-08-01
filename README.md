@@ -13,3 +13,10 @@
 
 ### Rails Niceties
 * [Zeus](https://github.com/burke/zeus)
+
+### Docker
+* minimal docker
+  * use debian instead, or even busybox
+  * chain commands w/ &&
+  * build with --rm etc
+  * http://william-yeh.github.io/docker-mini/#1
