@@ -1,10 +1,11 @@
-### settings
-
 ### pointers
 * [BEM](https://en.bem.info/method/)
 
 ### Coding
 * http://vimawesome.com/
+
+### Dev Practices
+* [How to write a Git Commit](http://chris.beams.io/posts/git-commit/)
 
 ### Mac
 * www.lvh.me
