@@ -8,6 +8,9 @@
 * [How to write a Git Commit](http://chris.beams.io/posts/git-commit/)
 
 ### Mac
+* dev env
+  * [laptop](https://github.com/thoughtbot/laptop)
+  * [dotfile](https://github.com/thoughtbot/dotfiles)
 * www.lvh.me
   * [pow](http://pow.cx/manual.html#section_1)
   * [powder](https://github.com/Rodreegez/powder)
