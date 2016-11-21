@@ -11,6 +11,7 @@
 * dev env
   * [laptop](https://github.com/thoughtbot/laptop)
   * [dotfile](https://github.com/thoughtbot/dotfiles)
+  * [dotfiles](https://dotfiles.github.io/)
   * brew install tree
 * www.lvh.me
 * [pow](http://pow.cx/manual.html#section_1)
