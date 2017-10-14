@@ -20,7 +20,7 @@
   * [how to set up local https development](http://www.panozzaj.com/blog/2013/08/12/how-to-set-up-local-https-development/)
     * [heroku: Creating a Self-Signed SSL Certificate](https://devcenter.heroku.com/articles/ssl-certificate-self) 
     * [chrome setup](http://www.robpeck.com/2010/10/google-chrome-mac-os-x-and-self-signed-ssl-certificates/#.VlZSkRCrTqU)
-
+* `npm install -g localtunnel`
 ### Rails Niceties
 * [Zeus](https://github.com/burke/zeus)
 
